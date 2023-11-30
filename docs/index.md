@@ -1,68 +1,26 @@
-# Homepage
+# Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to our innovative web application designed to simplify your train travel experience. Whether you're planning a weekend getaway or a daily commute, our platform aims to make the process of finding and purchasing train tickets effortless.
 
-## Code Annotation Examples
+## Project Objective
 
-### Codeblocks
+Our primary goal is to provide users with a seamless solution for searching, selecting, and buying train tickets. Much like popular platforms such as Renfe and Alsa, our application streamlines the train travel experience, offering a user-friendly interface that enhances accessibility for all.
 
-Some `code` goes here.
+## Target Audience
 
-### Plain codeblock
+This platform is designed with all users in mind. Whether you're a seasoned traveler or someone planning your first train journey, our application is crafted to cater to diverse needs and preferences. We aspire to make train travel accessible to everyone.
 
-A plain codeblock:
+## Project Scope
 
-```
-Some code here
-def myfunction()
-// some comment
-```
+Our focus is on enabling users to easily locate and secure train tickets. The scope of the project encompasses a user-friendly search interface, efficient ticket management, and a straightforward ticket purchasing process.
 
-#### Code for a specific language
+## Key Features
 
-Some more code with the `py` at the start:
+- **Train Search**: Utilize our intuitive train search functionality to find the best options for your journey.
+- **Ticket Management**: Seamlessly manage your tickets, keeping all your travel information in one convenient location.
 
-``` py
-import tensorflow as tf
-def whatever()
-```
+## Outcome Expectations
 
-#### With a title
+We envision a platform where individuals can effortlessly purchase train tickets, eliminating the hassle associated with traditional booking methods. Our commitment is to provide a user-friendly experience that empowers you to embark on your train journey with ease.
 
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### With line numbers
-
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### Highlighting lines
-
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-## Icons and Emojs
-
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
+Join us on this journey as we redefine the way you travel by train. Discover the simplicity of planning and booking your train tickets through our innovative web application.
