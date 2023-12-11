@@ -1,2 +1,2 @@
 # javaschool-doc
-Documentation of javashool proyect
+Documentation of Railway Transport Company project
